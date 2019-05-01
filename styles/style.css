@@ -6,18 +6,26 @@
 #header-text {
     /* display: inline-block;  */
     float: left;
-    width: 70%;
-    font-size: 11px;
+    width: 80%;
+    font-size: 0.9em;
     line-height: 0.7;
     text-align: right;
 }
 
 #signin-btn {
     /* display: inline-block; */
-    float: right;
+    float: left;
+    margin-top: 14px;
+    margin-left: 5px;
     /* width: 30%; */
-    margin: 0;
-    padding: 0;
+    
+}
+
+#signin-btn button {
+    font-size: 1.5em;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: skyblue;
 }
 
 
