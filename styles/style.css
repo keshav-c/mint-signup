@@ -13,8 +13,9 @@ body {
 }
 
 #signin-btn {
-    float: right;
-    margin-top: 14px;
+    margin-top: 8px;
+    margin-left: 8px;
+    display: inline-block;
 }
 
 #signin-btn button {
@@ -121,7 +122,6 @@ footer {
     margin-top: 60px;
     margin-bottom: 0;
     text-align: center;
-    /* padding-bottom: 0;  */
     line-height: 0.7;
 }
 
