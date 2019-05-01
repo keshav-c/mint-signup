@@ -1,0 +1,23 @@
+#header {
+    float: right;
+    /* right: 50px; */
+    width: 30%;
+}
+#header-text {
+    /* display: inline-block;  */
+    float: left;
+    width: 70%;
+    font-size: 11px;
+    line-height: 0.7;
+    text-align: right;
+}
+
+#signin-btn {
+    /* display: inline-block; */
+    float: right;
+    /* width: 30%; */
+    margin: 0;
+    padding: 0;
+}
+
+
