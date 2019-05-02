@@ -6,10 +6,10 @@ body {
 }
 .top-text {
     float: left;
-    width: 90%;
     font-size: 0.9em;
     line-height: 0.7;
     text-align: right;
+    width: 90%;
 }
 
 .signin-btn {
