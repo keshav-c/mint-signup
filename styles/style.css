@@ -42,13 +42,16 @@ h3 a {
     text-decoration: none;
 }
 
+.form-box {
+    margin: 0 auto;
+    width: 450px;
+}
+
 form {
     background-color: white;
     border: 1px solid black;
-    margin: 0 auto;
     margin-top: 20px;
     padding: 0;
-    width: 450px;
 }
 
 form div {
