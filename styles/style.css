@@ -1,10 +1,10 @@
 body {
     background-color: #eceef1;
 }
-#top {
+.top {
     height: 70px;
 }
-#top-text {
+.top-text {
     float: left;
     width: 90%;
     font-size: 0.9em;
@@ -12,13 +12,13 @@ body {
     text-align: right;
 }
 
-#signin-btn {
+.signin-btn {
     margin-top: 8px;
     margin-left: 8px;
     display: inline-block;
 }
 
-#signin-btn button {
+.signin-btn button {
     font-size: 1.5em;
     padding: 5px;
     border-radius: 3px;
@@ -54,15 +54,15 @@ form div {
     margin: 1em;
 }
 
-#form-title {
+.form-title {
     text-align: center;
     line-height: 0.7;
 }
-#form-title p {
+.form-title p {
     line-height: 1;
 }
 
-#form-title a {
+.form-title a {
     text-decoration: none;
 }
 
@@ -83,12 +83,12 @@ input {
     margin-top: 0;
 }
 
-#form-disclaimer {
+.form-disclaimer {
     font-style: italic;
     text-align: center;
 }
 
-#form-disclaimer a {
+.form-disclaimer a {
     text-decoration: none;
 }
 
@@ -102,19 +102,19 @@ form button {
     font-size: 14px;
 }
 
-#form-footer {
+.form-footer {
     background-color: #eceef1;
     margin: 0;
 }
 
-#form-footer p {
+.form-footer p {
     margin: 0;
     padding: 15px;
     text-align: center;
     font-size: 13px;
 }
 
-#form-footer a {
+.form-footer a {
     text-decoration: none;
 }
 
