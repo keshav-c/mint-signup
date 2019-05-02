@@ -13,24 +13,24 @@ body {
 }
 
 .signin-btn {
-    margin-top: 8px;
-    margin-left: 8px;
     display: inline-block;
+    margin-left: 8px;
+    margin-top: 8px;
 }
 
 .signin-btn button {
+    background-color: #0176c5;
+    border-radius: 3px;
+    color: white;
     font-size: 1.5em;
     padding: 5px;
-    border-radius: 3px;
-    background-color: #0176c5;
-    color: white;
 }
 
 header {
-    position: relative;
-    text-align: center;
     font-family: 'Lobster', cursive;
     line-height: .7;
+    position: relative;
+    text-align: center;
 }
 
 h3 {
@@ -38,16 +38,17 @@ h3 {
 }
 
 h3 a {
-    text-decoration: none;
     color: black;
+    text-decoration: none;
 }
+
 form {
+    background-color: white;
+    border: 1px solid black;
     margin: 0 auto;
+    margin-top: 20px;
     padding: 0;
     width: 450px;
-    border: 1px solid black;
-    background-color: white;
-    margin-top: 20px;
 }
 
 form div {
@@ -55,9 +56,10 @@ form div {
 }
 
 .form-title {
-    text-align: center;
     line-height: 0.7;
+    text-align: center;
 }
+
 .form-title p {
     line-height: 1;
 }
@@ -67,15 +69,15 @@ form div {
 }
 
 input {
-    width: 100%;
-    margin: 0 auto;
     font-size: 15px;
+    margin: 0 auto;
+    width: 100%;
 }
 
 .form-label {
+    font-size: 1.1em;
     margin-top: 30px;
     padding: 0;
-    font-size: 1.1em;
 }
 
 .form-label p{
@@ -95,11 +97,11 @@ input {
 form button {
     background-color: #0176c5;
     color: white;
-    padding-top: 8px;
-    padding-bottom: 8px;
-    width: 100%;
-    margin: 0 auto;
     font-size: 14px;
+    margin: 0 auto;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    width: 100%;
 }
 
 .form-footer {
@@ -108,10 +110,10 @@ form button {
 }
 
 .form-footer p {
+    font-size: 13px;
     margin: 0;
     padding: 15px;
     text-align: center;
-    font-size: 13px;
 }
 
 .form-footer a {
@@ -119,13 +121,13 @@ form button {
 }
 
 footer {
-    margin-top: 60px;
-    margin-bottom: 0;
-    text-align: center;
     line-height: 0.7;
+    margin-bottom: 0;
+    margin-top: 60px;
+    text-align: center;
 }
 
 footer a {
-    text-decoration: none;
     color: black;
+    text-decoration: none;
 }
