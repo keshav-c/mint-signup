@@ -1,9 +1,11 @@
 body {
     background-color: #eceef1;
 }
+
 .top {
     height: 70px;
 }
+
 .top-text {
     float: left;
     font-size: 0.9em;
@@ -22,6 +24,7 @@ body {
     background-color: #0176c5;
     border-radius: 3px;
     color: white;
+    cursor: pointer;
     font-size: 1.5em;
     padding: 5px;
 }
@@ -39,7 +42,6 @@ h3 {
 
 h3 a {
     color: black;
-    text-decoration: none;
 }
 
 .form-box {
@@ -51,7 +53,6 @@ form {
     background-color: white;
     border: 1px solid black;
     margin-top: 20px;
-    padding: 0;
 }
 
 form div {
@@ -67,14 +68,11 @@ form div {
     line-height: 1;
 }
 
-.form-title a {
-    text-decoration: none;
-}
-
 input {
     font-size: 15px;
+    height: 30px;
     margin: 0 auto;
-    width: 100%;
+    width: 98%;
 }
 
 .form-label {
@@ -93,13 +91,10 @@ input {
     text-align: center;
 }
 
-.form-disclaimer a {
-    text-decoration: none;
-}
-
 form button {
     background-color: #0176c5;
     color: white;
+    cursor: pointer;
     font-size: 14px;
     margin: 0 auto;
     padding-bottom: 8px;
@@ -119,7 +114,7 @@ form button {
     text-align: center;
 }
 
-.form-footer a {
+a {
     text-decoration: none;
 }
 
@@ -132,5 +127,4 @@ footer {
 
 footer a {
     color: black;
-    text-decoration: none;
 }
