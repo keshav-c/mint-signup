@@ -8,4 +8,4 @@ This project is a clone of the mint.com sign up page created using basic HTML an
 - [Moses Ogwo]
 
 #Live Version
-- [Follow this link for a live version of the project](https://raw.githack.com/mosesogwo/Mint-SIgnup/development2/index.html)
+- [Follow this link for a live version of the project](https://keshav-c.github.io/mint-signup/index.html)
